@@ -2,7 +2,7 @@ import Layout from "@/components/layout/layout";
 import { PortfolioItem } from "@/pages/portfolio";
 import Image from "next/image";
 import Link from "next/link";
-import styles from "/Users/maria_yarosh/web-studio/components/layout/layout.module.css"
+import styles from "components/layout/layout.module.css"
 import axios from "axios"
 
 export const PHOTOS_API_URL = "https://jsonplaceholder.typicode.com/photos/";
